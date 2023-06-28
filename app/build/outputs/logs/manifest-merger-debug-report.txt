@@ -1,0 +1,235 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/freddiesethi/Desktop/Education/Uni/Year2/submission-assignment-FreddieSethi/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/freddiesethi/Desktop/Education/Uni/Year2/submission-assignment-FreddieSethi/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/freddiesethi/Desktop/Education/Uni/Year2/submission-assignment-FreddieSethi/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/freddiesethi/Desktop/Education/Uni/Year2/submission-assignment-FreddieSethi/app/src/main/AndroidManifest.xml:2:1-21:12
+MERGED from [androidx.databinding:viewbinding:7.1.3] /Users/freddiesethi/.gradle/caches/transforms-3/7b540fc5d849c62f79772d62a5a6c4b9/transformed/jetified-viewbinding-7.1.3/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.material:material:1.4.0] /Users/freddiesethi/.gradle/caches/transforms-3/da0b41cd0b8f5bf93e6b38cc5577eda4/transformed/material-1.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] /Users/freddiesethi/.gradle/caches/transforms-3/028a926daa917b2e7b059f0a2818fc1b/transformed/constraintlayout-2.1.3/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.4.1] /Users/freddiesethi/.gradle/caches/transforms-3/3d7371143f8dbf65df3fe680d7e84f5c/transformed/appcompat-1.4.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.7.0] /Users/freddiesethi/.gradle/caches/transforms-3/9ebfa160a24e6ba6c5666af1a218c47e/transformed/jetified-core-ktx-1.7.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.arch.core:core-testing:2.0.0] /Users/freddiesethi/.gradle/caches/transforms-3/a7fcf11a781916579caec4d77e96752d/transformed/core-testing-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/freddiesethi/.gradle/caches/transforms-3/d3ff075ebfdacb861afca5bb56f251bc/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/freddiesethi/.gradle/caches/transforms-3/fb5e1a6857389aeedb6fcc24263ebbb2/transformed/fragment-1.3.6/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.2.4] /Users/freddiesethi/.gradle/caches/transforms-3/0dd3a3fa6586e595bf04a7d8c49d1836/transformed/jetified-activity-1.2.4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.4.1] /Users/freddiesethi/.gradle/caches/transforms-3/fd090c2044824933bfbcad88f38b9e42/transformed/jetified-appcompat-resources-1.4.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/freddiesethi/.gradle/caches/transforms-3/6c702e0ee6ceda030f2bf32ffcb52364/transformed/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] /Users/freddiesethi/.gradle/caches/transforms-3/c2f9d161c8fdb80b26956231438610bd/transformed/jetified-emoji2-views-helper-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2:1.0.0] /Users/freddiesethi/.gradle/caches/transforms-3/a63479241aec5a771139500e2cf97e4d/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/freddiesethi/.gradle/caches/transforms-3/c14621a8b96745327940692742e40aef/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/freddiesethi/.gradle/caches/transforms-3/0a9ec994e6b1fc68b3625c01ebdc3ede/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] /Users/freddiesethi/.gradle/caches/transforms-3/38763dcc06ad020e6256c184ee47339d/transformed/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/freddiesethi/.gradle/caches/transforms-3/10f3da283874738f9afe29af31e8ceff/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/freddiesethi/.gradle/caches/transforms-3/6243b20710be2088b3f62c1e5245a49d/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/freddiesethi/.gradle/caches/transforms-3/a866e36bff7ec3399acac3b0bc302367/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/freddiesethi/.gradle/caches/transforms-3/bc5650d5162fcce3b68794148543a99f/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/freddiesethi/.gradle/caches/transforms-3/c5f0be966f8fcd204ef2eb679652cd97/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/freddiesethi/.gradle/caches/transforms-3/ac6286b2c65ec3ecdb5da65f86a952d8/transformed/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/freddiesethi/.gradle/caches/transforms-3/2c8cd736220a2bdab58cd14e23cde49e/transformed/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.7.0] /Users/freddiesethi/.gradle/caches/transforms-3/137046f64edf88d1000ae3e46aa03552/transformed/core-1.7.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/freddiesethi/.gradle/caches/transforms-3/7396274400d986320ef0a7f23da3b5f6/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/freddiesethi/.gradle/caches/transforms-3/cf03dda93543b5e6105fec91e836d105/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/freddiesethi/.gradle/caches/transforms-3/8469fcc44522d56eee8b4f12f2ed374e/transformed/jetified-savedstate-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/freddiesethi/.gradle/caches/transforms-3/cb786eb46ca03665f64513a1c770c042/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/freddiesethi/.gradle/caches/transforms-3/069eda212bb94e74b0ef007dd0988ecc/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/freddiesethi/.gradle/caches/transforms-3/e2f977898d3586792d19e9a5bc2b7437/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/freddiesethi/.gradle/caches/transforms-3/9abae67a8a6287ac004cded3cc25514f/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/freddiesethi/.gradle/caches/transforms-3/84567847cb60e2e1f80b9ff745bd3141/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/freddiesethi/.gradle/caches/transforms-3/ecd4e9385cf7de8b6f9234baba0b0d60/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/freddiesethi/.gradle/caches/transforms-3/a759679ab82233a547ff4903295e5afa/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/freddiesethi/.gradle/caches/transforms-3/b73e50c6b27591a8b767e14ccadbe5f6/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] /Users/freddiesethi/.gradle/caches/transforms-3/135b23a571d4472a5705617d77af4a09/transformed/lifecycle-runtime-2.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/freddiesethi/.gradle/caches/transforms-3/fb344094db5bf322e6ead480a01ac09b/transformed/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/freddiesethi/.gradle/caches/transforms-3/731125f27305ca5f5068a0ea7928b0f1/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/freddiesethi/.gradle/caches/transforms-3/4f0ab347162428445ca7606cfa996934/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/freddiesethi/.gradle/caches/transforms-3/f937a64d72fda5d24ae41b77da149cd2/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/freddiesethi/.gradle/caches/transforms-3/d20b34ea728ae4cde2190f2c22d22f17/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/freddiesethi/.gradle/caches/transforms-3/5662506e92f0bd256162989e37440345/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/freddiesethi/Desktop/Education/Uni/Year2/submission-assignment-FreddieSethi/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/freddiesethi/Desktop/Education/Uni/Year2/submission-assignment-FreddieSethi/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/freddiesethi/Desktop/Education/Uni/Year2/submission-assignment-FreddieSethi/app/src/main/AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from /Users/freddiesethi/Desktop/Education/Uni/Year2/submission-assignment-FreddieSethi/app/src/main/AndroidManifest.xml:3:9-52
+		INJECTED from /Users/freddiesethi/Desktop/Education/Uni/Year2/submission-assignment-FreddieSethi/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/freddiesethi/Desktop/Education/Uni/Year2/submission-assignment-FreddieSethi/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/freddiesethi/Desktop/Education/Uni/Year2/submission-assignment-FreddieSethi/app/src/main/AndroidManifest.xml
+		ADDED from /Users/freddiesethi/Desktop/Education/Uni/Year2/submission-assignment-FreddieSethi/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /Users/freddiesethi/Desktop/Education/Uni/Year2/submission-assignment-FreddieSethi/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/freddiesethi/Desktop/Education/Uni/Year2/submission-assignment-FreddieSethi/app/src/main/AndroidManifest.xml
+		ADDED from /Users/freddiesethi/Desktop/Education/Uni/Year2/submission-assignment-FreddieSethi/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /Users/freddiesethi/Desktop/Education/Uni/Year2/submission-assignment-FreddieSethi/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/freddiesethi/Desktop/Education/Uni/Year2/submission-assignment-FreddieSethi/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/freddiesethi/Desktop/Education/Uni/Year2/submission-assignment-FreddieSethi/app/src/main/AndroidManifest.xml:5:5-19:19
+MERGED from [com.google.android.material:material:1.4.0] /Users/freddiesethi/.gradle/caches/transforms-3/da0b41cd0b8f5bf93e6b38cc5577eda4/transformed/material-1.4.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.4.0] /Users/freddiesethi/.gradle/caches/transforms-3/da0b41cd0b8f5bf93e6b38cc5577eda4/transformed/material-1.4.0/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] /Users/freddiesethi/.gradle/caches/transforms-3/028a926daa917b2e7b059f0a2818fc1b/transformed/constraintlayout-2.1.3/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] /Users/freddiesethi/.gradle/caches/transforms-3/028a926daa917b2e7b059f0a2818fc1b/transformed/constraintlayout-2.1.3/AndroidManifest.xml:9:5-20
+MERGED from [androidx.emoji2:emoji2:1.0.0] /Users/freddiesethi/.gradle/caches/transforms-3/a63479241aec5a771139500e2cf97e4d/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.emoji2:emoji2:1.0.0] /Users/freddiesethi/.gradle/caches/transforms-3/a63479241aec5a771139500e2cf97e4d/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.core:core:1.7.0] /Users/freddiesethi/.gradle/caches/transforms-3/137046f64edf88d1000ae3e46aa03552/transformed/core-1.7.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.7.0] /Users/freddiesethi/.gradle/caches/transforms-3/137046f64edf88d1000ae3e46aa03552/transformed/core-1.7.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/freddiesethi/.gradle/caches/transforms-3/e2f977898d3586792d19e9a5bc2b7437/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/freddiesethi/.gradle/caches/transforms-3/e2f977898d3586792d19e9a5bc2b7437/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/freddiesethi/.gradle/caches/transforms-3/9abae67a8a6287ac004cded3cc25514f/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/freddiesethi/.gradle/caches/transforms-3/9abae67a8a6287ac004cded3cc25514f/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/freddiesethi/.gradle/caches/transforms-3/84567847cb60e2e1f80b9ff745bd3141/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/freddiesethi/.gradle/caches/transforms-3/84567847cb60e2e1f80b9ff745bd3141/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:25:5-31:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.7.0] /Users/freddiesethi/.gradle/caches/transforms-3/137046f64edf88d1000ae3e46aa03552/transformed/core-1.7.0/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /Users/freddiesethi/Desktop/Education/Uni/Year2/submission-assignment-FreddieSethi/app/src/main/AndroidManifest.xml:10:13-39
+	android:label
+		ADDED from /Users/freddiesethi/Desktop/Education/Uni/Year2/submission-assignment-FreddieSethi/app/src/main/AndroidManifest.xml:8:13-45
+	android:roundIcon
+		ADDED from /Users/freddiesethi/Desktop/Education/Uni/Year2/submission-assignment-FreddieSethi/app/src/main/AndroidManifest.xml:9:13-58
+	android:icon
+		ADDED from /Users/freddiesethi/Desktop/Education/Uni/Year2/submission-assignment-FreddieSethi/app/src/main/AndroidManifest.xml:7:13-47
+	android:allowBackup
+		ADDED from /Users/freddiesethi/Desktop/Education/Uni/Year2/submission-assignment-FreddieSethi/app/src/main/AndroidManifest.xml:6:13-39
+	android:theme
+		ADDED from /Users/freddiesethi/Desktop/Education/Uni/Year2/submission-assignment-FreddieSethi/app/src/main/AndroidManifest.xml:11:13-44
+activity#uk.ac.bournemouth.ap.dotsandboxes.MainActivity
+ADDED from /Users/freddiesethi/Desktop/Education/Uni/Year2/submission-assignment-FreddieSethi/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:exported
+		ADDED from /Users/freddiesethi/Desktop/Education/Uni/Year2/submission-assignment-FreddieSethi/app/src/main/AndroidManifest.xml:13:17-40
+	android:name
+		ADDED from /Users/freddiesethi/Desktop/Education/Uni/Year2/submission-assignment-FreddieSethi/app/src/main/AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/freddiesethi/Desktop/Education/Uni/Year2/submission-assignment-FreddieSethi/app/src/main/AndroidManifest.xml:14:13-17:29
+action#android.intent.action.MAIN
+ADDED from /Users/freddiesethi/Desktop/Education/Uni/Year2/submission-assignment-FreddieSethi/app/src/main/AndroidManifest.xml:15:17-68
+	android:name
+		ADDED from /Users/freddiesethi/Desktop/Education/Uni/Year2/submission-assignment-FreddieSethi/app/src/main/AndroidManifest.xml:15:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/freddiesethi/Desktop/Education/Uni/Year2/submission-assignment-FreddieSethi/app/src/main/AndroidManifest.xml:16:17-76
+	android:name
+		ADDED from /Users/freddiesethi/Desktop/Education/Uni/Year2/submission-assignment-FreddieSethi/app/src/main/AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from /Users/freddiesethi/Desktop/Education/Uni/Year2/submission-assignment-FreddieSethi/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/freddiesethi/Desktop/Education/Uni/Year2/submission-assignment-FreddieSethi/app/src/main/AndroidManifest.xml
+INJECTED from /Users/freddiesethi/Desktop/Education/Uni/Year2/submission-assignment-FreddieSethi/app/src/main/AndroidManifest.xml
+MERGED from [androidx.databinding:viewbinding:7.1.3] /Users/freddiesethi/.gradle/caches/transforms-3/7b540fc5d849c62f79772d62a5a6c4b9/transformed/jetified-viewbinding-7.1.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.databinding:viewbinding:7.1.3] /Users/freddiesethi/.gradle/caches/transforms-3/7b540fc5d849c62f79772d62a5a6c4b9/transformed/jetified-viewbinding-7.1.3/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.4.0] /Users/freddiesethi/.gradle/caches/transforms-3/da0b41cd0b8f5bf93e6b38cc5577eda4/transformed/material-1.4.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.4.0] /Users/freddiesethi/.gradle/caches/transforms-3/da0b41cd0b8f5bf93e6b38cc5577eda4/transformed/material-1.4.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] /Users/freddiesethi/.gradle/caches/transforms-3/028a926daa917b2e7b059f0a2818fc1b/transformed/constraintlayout-2.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] /Users/freddiesethi/.gradle/caches/transforms-3/028a926daa917b2e7b059f0a2818fc1b/transformed/constraintlayout-2.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.4.1] /Users/freddiesethi/.gradle/caches/transforms-3/3d7371143f8dbf65df3fe680d7e84f5c/transformed/appcompat-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.4.1] /Users/freddiesethi/.gradle/caches/transforms-3/3d7371143f8dbf65df3fe680d7e84f5c/transformed/appcompat-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.7.0] /Users/freddiesethi/.gradle/caches/transforms-3/9ebfa160a24e6ba6c5666af1a218c47e/transformed/jetified-core-ktx-1.7.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.7.0] /Users/freddiesethi/.gradle/caches/transforms-3/9ebfa160a24e6ba6c5666af1a218c47e/transformed/jetified-core-ktx-1.7.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.arch.core:core-testing:2.0.0] /Users/freddiesethi/.gradle/caches/transforms-3/a7fcf11a781916579caec4d77e96752d/transformed/core-testing-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-testing:2.0.0] /Users/freddiesethi/.gradle/caches/transforms-3/a7fcf11a781916579caec4d77e96752d/transformed/core-testing-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/freddiesethi/.gradle/caches/transforms-3/d3ff075ebfdacb861afca5bb56f251bc/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/freddiesethi/.gradle/caches/transforms-3/d3ff075ebfdacb861afca5bb56f251bc/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/freddiesethi/.gradle/caches/transforms-3/fb5e1a6857389aeedb6fcc24263ebbb2/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/freddiesethi/.gradle/caches/transforms-3/fb5e1a6857389aeedb6fcc24263ebbb2/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] /Users/freddiesethi/.gradle/caches/transforms-3/0dd3a3fa6586e595bf04a7d8c49d1836/transformed/jetified-activity-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] /Users/freddiesethi/.gradle/caches/transforms-3/0dd3a3fa6586e595bf04a7d8c49d1836/transformed/jetified-activity-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.4.1] /Users/freddiesethi/.gradle/caches/transforms-3/fd090c2044824933bfbcad88f38b9e42/transformed/jetified-appcompat-resources-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.4.1] /Users/freddiesethi/.gradle/caches/transforms-3/fd090c2044824933bfbcad88f38b9e42/transformed/jetified-appcompat-resources-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/freddiesethi/.gradle/caches/transforms-3/6c702e0ee6ceda030f2bf32ffcb52364/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/freddiesethi/.gradle/caches/transforms-3/6c702e0ee6ceda030f2bf32ffcb52364/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] /Users/freddiesethi/.gradle/caches/transforms-3/c2f9d161c8fdb80b26956231438610bd/transformed/jetified-emoji2-views-helper-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] /Users/freddiesethi/.gradle/caches/transforms-3/c2f9d161c8fdb80b26956231438610bd/transformed/jetified-emoji2-views-helper-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2:1.0.0] /Users/freddiesethi/.gradle/caches/transforms-3/a63479241aec5a771139500e2cf97e4d/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.emoji2:emoji2:1.0.0] /Users/freddiesethi/.gradle/caches/transforms-3/a63479241aec5a771139500e2cf97e4d/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/freddiesethi/.gradle/caches/transforms-3/c14621a8b96745327940692742e40aef/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/freddiesethi/.gradle/caches/transforms-3/c14621a8b96745327940692742e40aef/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/freddiesethi/.gradle/caches/transforms-3/0a9ec994e6b1fc68b3625c01ebdc3ede/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/freddiesethi/.gradle/caches/transforms-3/0a9ec994e6b1fc68b3625c01ebdc3ede/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] /Users/freddiesethi/.gradle/caches/transforms-3/38763dcc06ad020e6256c184ee47339d/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/freddiesethi/.gradle/caches/transforms-3/38763dcc06ad020e6256c184ee47339d/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/freddiesethi/.gradle/caches/transforms-3/10f3da283874738f9afe29af31e8ceff/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/freddiesethi/.gradle/caches/transforms-3/10f3da283874738f9afe29af31e8ceff/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/freddiesethi/.gradle/caches/transforms-3/6243b20710be2088b3f62c1e5245a49d/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/freddiesethi/.gradle/caches/transforms-3/6243b20710be2088b3f62c1e5245a49d/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/freddiesethi/.gradle/caches/transforms-3/a866e36bff7ec3399acac3b0bc302367/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/freddiesethi/.gradle/caches/transforms-3/a866e36bff7ec3399acac3b0bc302367/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/freddiesethi/.gradle/caches/transforms-3/bc5650d5162fcce3b68794148543a99f/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/freddiesethi/.gradle/caches/transforms-3/bc5650d5162fcce3b68794148543a99f/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/freddiesethi/.gradle/caches/transforms-3/c5f0be966f8fcd204ef2eb679652cd97/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/freddiesethi/.gradle/caches/transforms-3/c5f0be966f8fcd204ef2eb679652cd97/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/freddiesethi/.gradle/caches/transforms-3/ac6286b2c65ec3ecdb5da65f86a952d8/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/freddiesethi/.gradle/caches/transforms-3/ac6286b2c65ec3ecdb5da65f86a952d8/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] /Users/freddiesethi/.gradle/caches/transforms-3/2c8cd736220a2bdab58cd14e23cde49e/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/freddiesethi/.gradle/caches/transforms-3/2c8cd736220a2bdab58cd14e23cde49e/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.7.0] /Users/freddiesethi/.gradle/caches/transforms-3/137046f64edf88d1000ae3e46aa03552/transformed/core-1.7.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.7.0] /Users/freddiesethi/.gradle/caches/transforms-3/137046f64edf88d1000ae3e46aa03552/transformed/core-1.7.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/freddiesethi/.gradle/caches/transforms-3/7396274400d986320ef0a7f23da3b5f6/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/freddiesethi/.gradle/caches/transforms-3/7396274400d986320ef0a7f23da3b5f6/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/freddiesethi/.gradle/caches/transforms-3/cf03dda93543b5e6105fec91e836d105/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/freddiesethi/.gradle/caches/transforms-3/cf03dda93543b5e6105fec91e836d105/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/freddiesethi/.gradle/caches/transforms-3/8469fcc44522d56eee8b4f12f2ed374e/transformed/jetified-savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/freddiesethi/.gradle/caches/transforms-3/8469fcc44522d56eee8b4f12f2ed374e/transformed/jetified-savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/freddiesethi/.gradle/caches/transforms-3/cb786eb46ca03665f64513a1c770c042/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/freddiesethi/.gradle/caches/transforms-3/cb786eb46ca03665f64513a1c770c042/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/freddiesethi/.gradle/caches/transforms-3/069eda212bb94e74b0ef007dd0988ecc/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/freddiesethi/.gradle/caches/transforms-3/069eda212bb94e74b0ef007dd0988ecc/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/freddiesethi/.gradle/caches/transforms-3/e2f977898d3586792d19e9a5bc2b7437/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/freddiesethi/.gradle/caches/transforms-3/e2f977898d3586792d19e9a5bc2b7437/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/freddiesethi/.gradle/caches/transforms-3/9abae67a8a6287ac004cded3cc25514f/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/freddiesethi/.gradle/caches/transforms-3/9abae67a8a6287ac004cded3cc25514f/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/freddiesethi/.gradle/caches/transforms-3/84567847cb60e2e1f80b9ff745bd3141/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/freddiesethi/.gradle/caches/transforms-3/84567847cb60e2e1f80b9ff745bd3141/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/freddiesethi/.gradle/caches/transforms-3/ecd4e9385cf7de8b6f9234baba0b0d60/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/freddiesethi/.gradle/caches/transforms-3/ecd4e9385cf7de8b6f9234baba0b0d60/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/freddiesethi/.gradle/caches/transforms-3/a759679ab82233a547ff4903295e5afa/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/freddiesethi/.gradle/caches/transforms-3/a759679ab82233a547ff4903295e5afa/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/freddiesethi/.gradle/caches/transforms-3/b73e50c6b27591a8b767e14ccadbe5f6/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/freddiesethi/.gradle/caches/transforms-3/b73e50c6b27591a8b767e14ccadbe5f6/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] /Users/freddiesethi/.gradle/caches/transforms-3/135b23a571d4472a5705617d77af4a09/transformed/lifecycle-runtime-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] /Users/freddiesethi/.gradle/caches/transforms-3/135b23a571d4472a5705617d77af4a09/transformed/lifecycle-runtime-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/freddiesethi/.gradle/caches/transforms-3/fb344094db5bf322e6ead480a01ac09b/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/freddiesethi/.gradle/caches/transforms-3/fb344094db5bf322e6ead480a01ac09b/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/freddiesethi/.gradle/caches/transforms-3/731125f27305ca5f5068a0ea7928b0f1/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/freddiesethi/.gradle/caches/transforms-3/731125f27305ca5f5068a0ea7928b0f1/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/freddiesethi/.gradle/caches/transforms-3/4f0ab347162428445ca7606cfa996934/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/freddiesethi/.gradle/caches/transforms-3/4f0ab347162428445ca7606cfa996934/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/freddiesethi/.gradle/caches/transforms-3/f937a64d72fda5d24ae41b77da149cd2/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/freddiesethi/.gradle/caches/transforms-3/f937a64d72fda5d24ae41b77da149cd2/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/freddiesethi/.gradle/caches/transforms-3/d20b34ea728ae4cde2190f2c22d22f17/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/freddiesethi/.gradle/caches/transforms-3/d20b34ea728ae4cde2190f2c22d22f17/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/freddiesethi/.gradle/caches/transforms-3/5662506e92f0bd256162989e37440345/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/freddiesethi/.gradle/caches/transforms-3/5662506e92f0bd256162989e37440345/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/freddiesethi/Desktop/Education/Uni/Year2/submission-assignment-FreddieSethi/app/src/main/AndroidManifest.xml
+INJECTED from /Users/freddiesethi/Desktop/Education/Uni/Year2/submission-assignment-FreddieSethi/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/freddiesethi/Desktop/Education/Uni/Year2/submission-assignment-FreddieSethi/app/src/main/AndroidManifest.xml
+		ADDED from /Users/freddiesethi/Desktop/Education/Uni/Year2/submission-assignment-FreddieSethi/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/freddiesethi/Desktop/Education/Uni/Year2/submission-assignment-FreddieSethi/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/freddiesethi/Desktop/Education/Uni/Year2/submission-assignment-FreddieSethi/app/src/main/AndroidManifest.xml
+		ADDED from /Users/freddiesethi/Desktop/Education/Uni/Year2/submission-assignment-FreddieSethi/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/freddiesethi/Desktop/Education/Uni/Year2/submission-assignment-FreddieSethi/app/src/main/AndroidManifest.xml
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/freddiesethi/.gradle/caches/transforms-3/a63479241aec5a771139500e2cf97e4d/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/freddiesethi/.gradle/caches/transforms-3/9abae67a8a6287ac004cded3cc25514f/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/freddiesethi/.gradle/caches/transforms-3/9abae67a8a6287ac004cded3cc25514f/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/freddiesethi/.gradle/caches/transforms-3/84567847cb60e2e1f80b9ff745bd3141/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/freddiesethi/.gradle/caches/transforms-3/84567847cb60e2e1f80b9ff745bd3141/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/freddiesethi/.gradle/caches/transforms-3/a63479241aec5a771139500e2cf97e4d/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:30:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/freddiesethi/.gradle/caches/transforms-3/a63479241aec5a771139500e2cf97e4d/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:28:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/freddiesethi/.gradle/caches/transforms-3/a63479241aec5a771139500e2cf97e4d/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:29:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/freddiesethi/.gradle/caches/transforms-3/a63479241aec5a771139500e2cf97e4d/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:27:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/freddiesethi/.gradle/caches/transforms-3/a63479241aec5a771139500e2cf97e4d/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/freddiesethi/.gradle/caches/transforms-3/a63479241aec5a771139500e2cf97e4d/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/freddiesethi/.gradle/caches/transforms-3/a63479241aec5a771139500e2cf97e4d/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:32:17-75
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/freddiesethi/.gradle/caches/transforms-3/9abae67a8a6287ac004cded3cc25514f/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/freddiesethi/.gradle/caches/transforms-3/9abae67a8a6287ac004cded3cc25514f/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/freddiesethi/.gradle/caches/transforms-3/9abae67a8a6287ac004cded3cc25514f/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:32:17-78
